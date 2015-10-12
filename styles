@@ -1,0 +1,23 @@
+img {
+    margin-left: -100px
+    width: 20%;
+} 
+
+body { 
+    background: grey;
+
+}
+
+h1 {
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+p { 
+    background: red;
+    border: 10px double black;
+
+    padding: 20px;
+    width: 100px;
+}
